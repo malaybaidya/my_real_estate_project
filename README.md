@@ -6,4 +6,4 @@
 - Engineered a predictive model with an 90% R2 score, facilitating precise apartment price predictions.
 - Create a recommender system that suggests similar properties based on selected criteria.
 - Created an Analysis Module, providing stakeholders with visual insights into housing market trends and price distributions.
-
+link: https://my-real-estate.streamlit.app/
